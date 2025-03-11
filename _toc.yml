@@ -6,5 +6,6 @@ root: intro
 chapters:
 - file: markdown
 - file: notebooks
-- file: markdown-notebooks
 - file: all-about-gaussian
+# - file: markdown-notebooks
+
