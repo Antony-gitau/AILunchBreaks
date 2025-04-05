@@ -9,10 +9,11 @@
 
 Point out ever better ways of getting things done that are presented on this page. You can do that by creating an issue on GitHub (somewhere top right of this page you will see a link to GitHub). I am very responsive on GitHub.
 
-If you like what I'm doing, and would like to just chat for whatever .. even just to exchange ideas .. I make time to meet new people. The easiest way is to shoot an email to me at antonym.gitau9@gmail.com.
+If you like what I'm doing, and would like to just chat for whatever .. even just to exchange ideas .. I make time to meet new people. The easiest way is to shoot an email to me at antonym<dot>gitau9<at>gmail<dot>com.
 
 Some tweet about AI ([@AILunchBreaks](https://x.com/AILunchBreaks))
-and videos on [YouTube](https://t.co/38ehlA56yr).
+and videos on ([YouTube](https://t.co/38ehlA56yr)).
+<!-- <a href="https://x.com/AILunchBreaks" target="_blank">AILunchBreaks</a> -->
 
 Enjoy!
 
