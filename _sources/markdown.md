@@ -1,19 +1,17 @@
-# Markdown Files
+# What you can expect from AI Lunch Breaks (ALB)
 
-Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
-in regular markdown files (`.md`), you'll write in the same flavor of markdown
-called **MyST Markdown**.
-This is a simple file to help you get started and show off some syntax.
+- Data visualizations: Some data that excites me, or I have encountered during my research may show up here in as plots telling a story.
+- Algorithms and ML architectures that I have dissected out of curiosity or during my studies and other experiences.
+- Anecdotes about history of some technologies compared to bleed edge.
+- Mathematical proofs of equations/functions that have a direct application in ML
 
-## What is MyST?
+## What can you do for ALB?
 
-MyST stands for "Markedly Structured Text". It
-is a slight variation on a flavor of markdown called "CommonMark" markdown,
-with small syntax extensions to allow you to write **roles** and **directives**
-in the Sphinx ecosystem.
+Point out ever better ways of getting things done that are presented on this page. You can do that by creating an issue on GitHub (somewhere top right of this page you will see a link to GitHub). I am very responsive on GitHub.
 
-For more about MyST, see [the MyST Markdown Overview](https://jupyterbook.org/content/myst.html).
+If you like what I'm doing, and would like to just chat for whatever .. even just to exchange ideas .. I make time to meet new people. The easiest way is to shoot an email to me at antonym.gitau9@gmail.com.
 
+<!-- 
 ## Sample Roles and Directives
 
 Roles and directives are two of the most powerful tools in Jupyter Book. They
@@ -52,4 +50,4 @@ then the bibliography is inserted with:
 ## Learn more
 
 This is just a simple starter to get you started.
-You can learn a lot more at [jupyterbook.org](https://jupyterbook.org).
+You can learn a lot more at [jupyterbook.org](https://jupyterbook.org). -->
